@@ -1,0 +1,4 @@
+Swear
+=======
+
+My promise library.
